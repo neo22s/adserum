@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="info">Click the button to get your coordinates:</p>
+
+<input type="text"  id="latitude"    name="latitude"     value="latitude"   >
+<input type="text"  id="longitude"   name="longitude"    value="longitude"  >
+<button onclick="getLocation()">Try It</button>
+<br>
+<input type="text"  id="country"     name="country"      value="country"    >
+<input type="text"  id="city"        name="city"         value="city"       >
+<button onclick="maxmindGeo()">Maxmind</button>
+
+<script>
+
+getLocation();
+
+function getLocation()
+{
+    if (navigator.geolocation)
+    {
+        navigator.geolocation.getCurrentPosition(getPosition, maxmindGeo);
+    }
+    else
+    {
+        maxmindGeo();
+    }
+}  
+  
+function getPosition(position)
+{
+    populate(position.coords.latitude,position.coords.longitude);
+}
+
+function maxmindGeo()
+{
+    include_js("http://j.maxmind.com/app/geoip.js",false);
+    populate(geoip_latitude(),geoip_longitude(),true);
+}
+
+function populate(latitude,longitude,maxmind)
+{
+    document.getElementById("latitude").value   = latitude;
+    document.getElementById("longitude").value  = longitude;
+
+    if (maxmind == true) 
+    {
+        document.getElementById("info").innerHTML   = 'This website uses <a href="http://www.maxmind.com/en/javascript">MaxMinds GeoIP JavaScript Service</a>';
+        document.getElementById("country").value    = geoip_country_code();
+        document.getElementById("city").value       = geoip_city();
+    }    
+ 
+}
+
+function include_js(file,async)
+{
+    var head    = document.getElementsByTagName('body')[0];
+    var script  = document.createElement('script');
+    script.type = 'text/javascript';
+
+    if (async == true)
+        script.src= file;
+    else
+    {
+        // get some kind of XMLHttpRequest
+        if (window.XMLHttpRequest)
+        {// code for IE7+, Firefox, Chrome, Opera, Safari
+            xhrObj = new XMLHttpRequest();
+        }
+        else
+        {// code for IE6, IE5
+            xhrObj = new ActiveXObject("Microsoft.XMLHTTP");
+        }
+        // open and send a synchronous request
+        xhrObj.open('GET', file, false);
+        xhrObj.send('');
+       
+        script.text = xhrObj.responseText;
+    }
+
+    head.appendChild(script);
+}
+
+</script>
+
+</body>
+</html>

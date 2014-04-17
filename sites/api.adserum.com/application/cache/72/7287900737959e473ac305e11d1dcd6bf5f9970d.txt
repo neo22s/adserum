@@ -1,0 +1,1 @@
+a:1:{i:0;a:6:{s:11:"id_language";s:1:"1";s:8:"language";s:2:"EN";s:13:"language_name";s:7:"English";s:7:"charset";s:5:"UTF-8";s:6:"locale";s:5:"en_EN";s:6:"status";s:1:"1";}}

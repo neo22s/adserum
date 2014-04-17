@@ -1,0 +1,1 @@
+a:1:{i:0;a:12:{s:11:"id_adformat";s:1:"4";s:4:"name";s:7:"120x600";s:12:"max_ad_slots";s:1:"4";s:11:"orientation";s:8:"vertical";s:5:"width";s:3:"120";s:6:"height";s:3:"600";s:10:"title_size";s:2:"25";s:16:"description_size";s:2:"35";s:17:"description2_size";s:2:"35";s:8:"url_size";s:2:"35";s:5:"image";s:1:"0";s:6:"active";s:1:"1";}}

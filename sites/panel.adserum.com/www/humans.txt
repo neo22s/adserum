@@ -1,0 +1,14 @@
+/* TEAM */                   
+Your title: Chema Garrido.                       
+Site: http://ocacu.com/.                         
+Twitter: deambulando.                  
+Location: Barcelona, Spain.
+						
+/* THANKS */						
+Name: Kohana Framework.
+                        
+/* SITE */                
+Last update: 2012/08/28.                         
+Standards: HTML5, CSS3.
+Components: Twitter Bootstrap, jQuery.
+Software: PHP, MySQL, Ubuntu, Eclipse.

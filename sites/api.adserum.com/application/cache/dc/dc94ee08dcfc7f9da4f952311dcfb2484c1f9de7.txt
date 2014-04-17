@@ -1,0 +1,1 @@
+a:1:{i:0;a:3:{s:11:"id_location";s:2:"68";s:7:"country";s:2:"ES";s:4:"city";N;}}

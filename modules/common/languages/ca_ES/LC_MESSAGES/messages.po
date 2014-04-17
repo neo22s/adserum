@@ -1,0 +1,312 @@
+#: String 0
+msgid "Publisher"
+msgstr "Editor"
+
+#: String 2
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: String 3
+msgid "Payments"
+msgstr "Pagos"
+
+#: String 4
+msgid "Edit profile"
+msgstr "Editar perfil"
+
+#: String 6
+msgid "Logout"
+msgstr "Sortir"
+
+#: String 7
+msgid "Home"
+msgstr "Inici"
+
+#: String 10
+msgid "Content"
+msgstr "Contingut"
+
+#: String 11
+msgid "Locations"
+msgstr "Ubicaciones"
+
+#: String 15
+msgid "Orders"
+msgstr "Demanats"
+
+#: String 16
+msgid "Users"
+msgstr "Usuaris"
+
+#: String 17
+msgid "User Roles"
+msgstr "Funcions d'usuari"
+
+#: String 19
+msgid "Tools"
+msgstr "Herramientas"
+
+#: String 23
+msgid "Logs"
+msgstr "Registre"
+
+#: String 25
+msgid "Advertisements"
+msgstr "Anuncis"
+
+#: String 26
+msgid "New Advertisement"
+msgstr "Nou Anunci"
+
+#: String 27
+msgid "Cache"
+msgstr "Cache"
+
+#: String 28
+msgid "Edit Profile"
+msgstr "Editar Perfil"
+
+#: String 29
+msgid "Name"
+msgstr "Nombre"
+
+#: String 30
+msgid "Email"
+msgstr "Email"
+
+#: String 33
+msgid "Website"
+msgstr "Assetjo web"
+
+#: String 35
+msgid "Send"
+msgstr "Enviar"
+
+#: String 36
+msgid "Change password"
+msgstr "Cambiar contraseña"
+
+#: String 37
+msgid "New password"
+msgstr "Nova contrasenya"
+
+#: String 38
+msgid "Password"
+msgstr "Contrasenya"
+
+#: String 39
+msgid "Repeat password"
+msgstr "Repetir contrasenya"
+
+#: String 40
+msgid "Type your password twice to change"
+msgstr "Escrigui la contrasenya dues vegades per canviar-la"
+
+#: String 41
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: String 43
+msgid "Saved"
+msgstr "Guardado"
+
+#: String 50
+msgid "From"
+msgstr "De"
+
+#: String 51
+msgid "To"
+msgstr "A"
+
+#: String 52
+msgid "Filter"
+msgstr "Filtrar"
+
+#: String 55
+msgid "Hits"
+msgstr "Visites"
+
+#: String 58
+msgid "Ads"
+msgstr "Anuncis"
+
+#: String 59
+msgid "Published"
+msgstr "Publicado"
+
+#: String 60
+msgid "Sales"
+msgstr "Vendes"
+
+#: String 61
+msgid "Today"
+msgstr "Avui"
+
+#: String 62
+msgid "Yesterday"
+msgstr "Ahir"
+
+#: String 65
+msgid "Total"
+msgstr "Total"
+
+#: String 70
+msgid "New"
+msgstr "Nou"
+
+#: String 71
+msgid "Actions"
+msgstr "Accions"
+
+#: String 72
+msgid "Edit"
+msgstr "Editar"
+
+#: String 73
+msgid "Are you sure you want to delete?"
+msgstr "Està segur que desitja eliminar?"
+
+#: String 74
+msgid "Delete"
+msgstr "Esborrar"
+
+#: String 75
+msgid "Update"
+msgstr "Actualitzar"
+
+#: String 84
+msgid "Size"
+msgstr "Grandària"
+
+#: String 101
+msgid "Remember password"
+msgstr "Recordar contraseña"
+
+#: String 111
+msgid "Register"
+msgstr "Registra't"
+
+#: String 116
+msgid "Translations"
+msgstr "Traducciones"
+
+#: String 117
+msgid "Here you can modify any text you find in your web."
+msgstr "Aquí pot modificar el text que es troba a la seva pàgina"
+
+#: String 118
+msgid "Original Translation"
+msgstr "La traducció original"
+
+#: String 119
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr "Copiar tot?, Tingui en compte est reemplaçarà tots els seus textos."
+
+#: String 120
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr "Traduir tot?, Tingues en compte que reemplaçarà tots els seus textos."
+
+#: String 121
+msgid "Translation"
+msgstr "Traducció"
+
+#: String 122
+msgid "Save"
+msgstr "Guardar"
+
+#: String 123
+msgid "Translations files available in the system."
+msgstr "Arxius en el sistema de traduccions."
+
+#: String 124
+msgid "Scan"
+msgstr "Escanejar"
+
+#: String 125
+msgid "Language"
+msgstr "Idioma"
+
+#: String 128
+msgid "Title"
+msgstr "Título"
+
+#: String 133
+msgid "Created"
+msgstr "Creado"
+
+#: String 134
+msgid "Status"
+msgstr "Estado"
+
+#: String 157
+msgid "Password is changed"
+msgstr "Se ha modificado la contraseña"
+
+#: String 158
+msgid "Nothing is provided"
+msgstr "Faltan datos"
+
+#: String 159
+msgid "Passwords do not match"
+msgstr "Las contraseñas no coinciden"
+
+#: String 160
+msgid "You have successfuly changed your data"
+msgstr "Ha cambiado exitosamente sus datos"
+
+#: String 161
+msgid "List"
+msgstr "Lista"
+
+#: String 162
+msgid "Edit Translation"
+msgstr "Editar Traducción"
+
+#: String 163
+msgid "Language saved"
+msgstr "Idioma guardado"
+
+#: String 165
+msgid "Moderation"
+msgstr "Moderació"
+
+#: String 169
+msgid "Listing"
+msgstr "Llistat"
+
+#: String 175
+msgid "Order could not be loaded"
+msgstr "El pedido no se pudo cargar"
+
+#: String 176
+msgid "Wrong email or password"
+msgstr "Email o contraseña incorrectos"
+
+#: String 177
+msgid "Login"
+msgstr "Login"
+
+#: String 178
+msgid "Email to recover password sent"
+msgstr "Email con nuevo password envíado"
+
+#: String 179
+msgid "User not in database"
+msgstr "El usuario no está en la base de datos"
+
+#: String 180
+msgid "Email required"
+msgstr "Email requerido"
+
+#: String 181
+msgid "User already exists"
+msgstr "Usuario ya existe"
+
+#: String 182
+msgid "Welcome!"
+msgstr "¡Bienvenido!"
+
+#: String 183
+msgid "Register new user"
+msgstr "Registro nuevo usuario"
+

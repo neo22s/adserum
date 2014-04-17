@@ -1,0 +1,4 @@
+[Sat Jan 04 18:22:03.869290 2014] [:error] [pid 12528] [client 127.0.0.1:57986] PHP Fatal error:  Call to undefined function __() in /var/www/kohana-322/system/views/kohana/error.php on line 67
+[Sat Jan 04 18:22:03.869570 2014] [:error] [pid 12528] [client 127.0.0.1:57986] PHP Fatal error:  Call to undefined function __() in /var/www/kohana-322/system/views/kohana/error.php on line 63
+[Sat Jan 04 18:22:03.982977 2014] [:error] [pid 12485] [client 127.0.0.1:57987] PHP Fatal error:  Call to undefined function __() in /var/www/kohana-322/system/views/kohana/error.php on line 67
+[Sat Jan 04 18:22:03.983310 2014] [:error] [pid 12485] [client 127.0.0.1:57987] PHP Fatal error:  Call to undefined function __() in /var/www/kohana-322/system/views/kohana/error.php on line 63

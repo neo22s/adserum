@@ -1,0 +1,5 @@
+a:1:{i:0;a:12:{s:10:"id_content";s:1:"5";s:17:"id_content_parent";s:1:"0";s:11:"id_language";s:1:"1";s:5:"order";s:1:"0";s:11:"parent_deep";s:1:"0";s:5:"title";s:17:"Remember Password";s:8:"seotitle";s:8:"remember";s:11:"description";s:75:"Hello [USER.NAME],
+
+Follow this link <a href="[URL.QL]"> here</a>
+
+Thanks!!";s:10:"from_email";s:19:"support@adserum.com";s:7:"created";s:19:"2013-01-15 12:58:34";s:4:"type";s:5:"email";s:6:"status";s:1:"1";}}

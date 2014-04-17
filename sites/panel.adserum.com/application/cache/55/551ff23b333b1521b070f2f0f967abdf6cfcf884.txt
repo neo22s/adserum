@@ -1,0 +1,5 @@
+a:1:{i:0;a:12:{s:10:"id_content";s:1:"9";s:17:"id_content_parent";s:1:"0";s:11:"id_language";s:1:"1";s:5:"order";s:1:"0";s:11:"parent_deep";s:1:"0";s:5:"title";s:44:"Congratulations, your advertisement is live!";s:8:"seotitle";s:12:"ad.published";s:11:"description";s:168:"Hello [USER.NAME],
+
+Your advertisement passed the moderation and is published in our network!
+
+Remember that you can go any time to your panel to check live statistics.";s:10:"from_email";s:19:"support@adserum.com";s:7:"created";s:19:"2013-03-05 18:19:41";s:4:"type";s:5:"email";s:6:"status";s:1:"1";}}

@@ -1,0 +1,1 @@
+a:1:{i:0;C:14:"Model_Location":292:{a:7:{s:18:"_primary_key_value";s:2:"68";s:7:"_object";a:3:{s:11:"id_location";s:2:"68";s:7:"country";s:2:"ES";s:4:"city";N;}s:8:"_changed";a:0:{}s:7:"_loaded";b:1;s:6:"_saved";b:0;s:8:"_sorting";N;s:16:"_original_values";a:3:{s:11:"id_location";s:2:"68";s:7:"country";s:2:"ES";s:4:"city";N;}}}}

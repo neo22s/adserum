@@ -1,0 +1,62 @@
+.mt-15{margin-top: 16px;}
+/*logo*/
+.logo_new_advert{width: 380px;display: block;margin: 17px auto 10px auto;border-radius: 4px;padding-left: 155px;}
+.slogan{color: #343434;padding-left: 5px;}
+
+/*form*/
+.shift_top{margin-top: 15px;}
+/*language top right button*/
+.btn_lang{margin-top: 2px;}
+.btn_lang a:hover,.btn_lang a:focus,.btn_lang a:active{text-decoration: none;}
+.btn_lang a i {margin-top: 2px!important;}
+/*green check image*/
+.control-group.success input + div.clean, 
+.control-group.success select + div.clean, 
+.control-group.success textarea + div.clean {left: 20px;float: right;top: -22px;}
+/*inputs*/
+.label_true {display: block!important;}
+.chzn-container {width: 100%!important;}
+.login-fields input{padding: 4px 17px 4px 0px;}
+.price_new_auth {float:left;right: 0;left: 51px;margin-right: auto;margin-left: auto;width: 69%;position: relative;}
+.price_new_auth_hidden{visibility: hidden; position: absolute;}
+.register span.login-checkbox{width: 100%;}
+span.login-checkbox > input[type='checkbox']{opacity: 1; margin-right: 5px;}
+/*preview baner*/
+.preview-container{width: 270px;display: block;margin-right: 10px;position: fixed;margin-left: 395px;
+background: #f9f9f9;border: 1px solid #d5d5d5;-webkit-border-radius: 4px;-moz-border-radius: 4px;
+border-radius: 4px;} 
+.preview-container ul{list-style:none; padding:1px;margin: 20px auto 10px 20px;}
+.preview-container a.title {font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #F98505;margin-bottom: 5px;} 
+.preview-container a.url {text-decoration:none;font-family: Arial, Helvetica, sans-serif; font-size: 10pt;  color: #F1AF1A;} 
+.preview-container a.desc {text-decoration:none;color: #575756;} 
+.preview-container a:link {text-decoration:none;}
+.preview-container a:visited {text-decoration:none;} 
+.preview-container a:hover {text-decoration:underline;}   
+.preview-container a:active {text-decoration:underline;}
+li{font-family: Arial, Helvetica, sans-serif; font-size: 9pt;  color: #575756;}
+li.first{position: relative;top: -17px;}
+.powered_by_logo{position:relative;}
+.desc2{margin-bottom: 0px;}
+.preview_header{margin-left: 20px;}
+
+@media only screen and (max-width: 959px) {.preview-container{display: none;}}
+
+@media only screen and (max-width: 767px) {
+	.login-fields input{width: 100%!important;}
+}
+
+@media only screen and (max-width: 520px) {
+	.logo_new_advert{padding-left: 50px;}
+	.price_new_auth{width: 96%;left:4px;}
+	.login-fields input{width: 100%!important;}
+}
+
+@media only screen and (max-width: 481px) {
+	.logo_new_advert{padding-left: 25%;}
+	.login-fields input{width: 225px!important;}
+}
+
+@media only screen and (max-width: 381px) {
+	.logo_new_advert{padding-left: 20%;}
+	.login-fields input{width: 225px!important;}
+}

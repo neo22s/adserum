@@ -1,0 +1,13 @@
+a:1:{i:0;a:12:{s:10:"id_content";s:1:"6";s:17:"id_content_parent";s:1:"0";s:11:"id_language";s:1:"1";s:5:"order";s:1:"0";s:11:"parent_deep";s:1:"0";s:5:"title";s:22:"Welcome to Adserum.com";s:8:"seotitle";s:8:"register";s:11:"description";s:266:"Welcome [USER.NAME],
+<br>
+We are really happy that you joined us!
+<br>
+<a href="[URL.QL]">Click here to start</a>.
+<br>
+Remember your user details:<br>
+Email: [USER.EMAIL]<br>
+Password: [USER.PWD]<br>
+<br><br>
+We do not have your original password anymore.
+
+Regards!";s:10:"from_email";s:19:"support@adserum.com";s:7:"created";s:19:"0000-00-00 00:00:00";s:4:"type";s:5:"email";s:6:"status";s:1:"1";}}

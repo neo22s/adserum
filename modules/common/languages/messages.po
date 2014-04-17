@@ -1,0 +1,910 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OfficeGate Language Pack\n"
+"POT-Creation-Date: 2013-10-04 23:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+
+#: themes/dashboard/views/header.php:33
+#: classes/controller/publisher.php:13
+msgid "Publisher"
+msgstr ""
+
+#: themes/dashboard/views/header.php:37
+msgid "HTML Codes"
+msgstr ""
+
+#: themes/dashboard/views/header.php:38
+#: themes/dashboard/views/header.php:98
+#: themes/dashboard/views/pages/moderation/list.php:47
+#: themes/dashboard/views/pages/ads/list.php:47
+#: themes/dashboard/views/pages/ads/stats.php:6
+#: classes/controller/ads.php:45
+#: classes/controller/ads.php:46
+#: classes/controller/stats.php:7
+msgid "Stats"
+msgstr ""
+
+#: themes/dashboard/views/header.php:39
+#: themes/dashboard/views/pages/publisher/payments.php:26
+#: classes/controller/publisher.php:39
+msgid "Payments"
+msgstr ""
+
+#: themes/dashboard/views/header.php:51
+#: classes/controller/profile.php:68
+#: classes/controller/profile.php:69
+msgid "Edit profile"
+msgstr ""
+
+#: themes/dashboard/views/header.php:52
+msgid "Change Password"
+msgstr ""
+
+#: themes/dashboard/views/header.php:54
+msgid "Logout"
+msgstr ""
+
+#: themes/dashboard/views/header.php:83
+msgid "Home"
+msgstr ""
+
+#: themes/dashboard/views/header.php:91
+msgid "Ads Moderation"
+msgstr ""
+
+#: themes/dashboard/views/header.php:102
+#: themes/dashboard/views/pages/stats/panel.php:4
+#: classes/controller/stats.php:24
+msgid "Dashboard"
+msgstr ""
+
+#: themes/dashboard/views/header.php:120
+#: themes/dashboard/views/header.php:126
+msgid "Content"
+msgstr ""
+
+#: themes/dashboard/views/header.php:124
+#: themes/dashboard/views/pages/moderation/edit.php:115
+msgid "Locations"
+msgstr ""
+
+#: themes/dashboard/views/header.php:125
+msgid "Languages"
+msgstr ""
+
+#: themes/dashboard/views/header.php:127
+msgid "Ads Formats"
+msgstr ""
+
+#: themes/dashboard/views/header.php:128
+msgid "Products"
+msgstr ""
+
+#: themes/dashboard/views/header.php:129
+msgid "Orders"
+msgstr ""
+
+#: themes/dashboard/views/header.php:140
+#: themes/dashboard/views/header.php:144
+msgid "Users"
+msgstr ""
+
+#: themes/dashboard/views/header.php:145
+msgid "User Roles"
+msgstr ""
+
+#: themes/dashboard/views/header.php:146
+msgid "Roles Access"
+msgstr ""
+
+#: themes/dashboard/views/header.php:157
+#: classes/controller/tools.php:7
+msgid "Tools"
+msgstr ""
+
+#: themes/dashboard/views/header.php:161
+msgid "Crontab"
+msgstr ""
+
+#: themes/dashboard/views/header.php:162
+msgid "Cronjobs"
+msgstr ""
+
+#: themes/dashboard/views/header.php:163
+msgid "Clean cache"
+msgstr ""
+
+#: themes/dashboard/views/header.php:164
+#: themes/dashboard/views/pages/log.php:3
+#: classes/controller/log.php:7
+#: classes/controller/log.php:25
+msgid "Logs"
+msgstr ""
+
+#: themes/dashboard/views/header.php:165
+#: themes/dashboard/views/pages/redis.php:4
+msgid "Redis"
+msgstr ""
+
+#: themes/dashboard/views/header.php:176
+#: themes/dashboard/views/pages/publisher/codes.php:12
+#: themes/dashboard/views/pages/ads/list.php:2
+#: classes/controller/ads.php:9
+msgid "Advertisements"
+msgstr ""
+
+#: themes/dashboard/views/header.php:177
+#: classes/controller/ads.php:126
+#: classes/controller/ads.php:127
+msgid "New Advertisement"
+msgstr ""
+
+#: themes/dashboard/views/pages/cache.php:2
+msgid "Cache"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:4
+msgid "Edit Profile"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:9
+#: themes/dashboard/views/pages/profile/edit.php:11
+#: themes/dashboard/views/pages/auth/register.php:14
+#: themes/dashboard/views/pages/auth/register.php:15
+msgid "Name"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:15
+#: themes/dashboard/views/pages/profile/edit.php:17
+#: themes/dashboard/views/pages/auth/forgot.php:14
+#: themes/dashboard/views/pages/auth/forgot.php:15
+#: themes/dashboard/views/pages/auth/register.php:19
+#: themes/dashboard/views/pages/auth/register.php:20
+#: themes/dashboard/views/pages/auth/login.php:14
+#: themes/dashboard/views/pages/auth/login.php:15
+msgid "Email"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:21
+msgid "Paypal"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:23
+msgid "Paypal Email"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:27
+msgid "Website"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:29
+msgid "url of you main site"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:35
+#: themes/dashboard/views/pages/profile/edit.php:66
+msgid "Send"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:41
+#: classes/controller/profile.php:15
+#: classes/controller/profile.php:17
+msgid "Change password"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:48
+msgid "New password"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:50
+#: themes/dashboard/views/pages/profile/edit.php:57
+#: themes/dashboard/views/pages/auth/register.php:24
+#: themes/dashboard/views/pages/auth/register.php:25
+#: themes/dashboard/views/pages/auth/register.php:58
+#: themes/dashboard/views/pages/auth/login.php:19
+#: themes/dashboard/views/pages/auth/login.php:20
+#: themes/dashboard/views/pages/auth/login.php:47
+msgid "Password"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:55
+msgid "Repeat password"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:59
+msgid "Type your password twice to change"
+msgstr ""
+
+#: themes/dashboard/views/pages/profile/edit.php:65
+msgid "Cancel"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:10
+msgid "Uptime"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:16
+msgid "Saved"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:22
+msgid "CPU"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:27
+msgid "Memory"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:38
+msgid "Clients"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:43
+msgid "Connections"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:48
+msgid "Commands"
+msgstr ""
+
+#: themes/dashboard/views/pages/redis.php:53
+msgid "Keys"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:8
+#: themes/dashboard/views/pages/publisher/stats.php:49
+#: themes/dashboard/views/pages/ads/stats.php:59
+msgid "From"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:12
+#: themes/dashboard/views/pages/publisher/stats.php:53
+#: themes/dashboard/views/pages/ads/stats.php:63
+msgid "To"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:17
+#: themes/dashboard/views/pages/publisher/stats.php:58
+#: themes/dashboard/views/pages/ads/stats.php:68
+msgid "Filter"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:26
+msgid "Created ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:31
+msgid "Published ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:36
+#: themes/dashboard/views/pages/stats/panel.php:62
+msgid "Hits"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:41
+#: themes/dashboard/views/pages/stats/panel.php:63
+#: themes/dashboard/views/pages/moderation/list.php:24
+#: themes/dashboard/views/pages/ads/stats.php:32
+#: themes/dashboard/views/pages/ads/stats.php:97
+msgid "Clicks"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:54
+msgid "Quick view"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:60
+#: classes/controller/moderation.php:19
+msgid "Ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:61
+#: themes/dashboard/views/pages/moderation/list.php:9
+msgid "Published"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:64
+msgid "Sales"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:70
+#: themes/dashboard/views/pages/publisher/stats.php:19
+#: themes/dashboard/views/pages/publisher/stats.php:94
+#: themes/dashboard/views/pages/ads/stats.php:12
+#: themes/dashboard/views/pages/ads/stats.php:36
+msgid "Today"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:78
+#: themes/dashboard/views/pages/publisher/stats.php:25
+#: themes/dashboard/views/pages/publisher/stats.php:106
+#: themes/dashboard/views/pages/ads/stats.php:17
+#: themes/dashboard/views/pages/ads/stats.php:41
+msgid "Yesterday"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:86
+#: themes/dashboard/views/pages/publisher/stats.php:31
+#: themes/dashboard/views/pages/publisher/stats.php:131
+#: themes/dashboard/views/pages/ads/stats.php:22
+#: themes/dashboard/views/pages/ads/stats.php:46
+msgid "Month"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:94
+#: themes/dashboard/views/pages/publisher/stats.php:155
+msgid "Year"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:102
+#: themes/dashboard/views/pages/publisher/stats.php:37
+#: themes/dashboard/views/pages/publisher/stats.php:118
+#: themes/dashboard/views/pages/ads/stats.php:27
+#: themes/dashboard/views/pages/ads/stats.php:51
+msgid "Total"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:126
+msgid "Daily created ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:137
+msgid "Daily published ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:153
+#: themes/dashboard/views/pages/ads/stats.php:90
+msgid "Daily hits ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/stats/panel.php:164
+#: themes/dashboard/views/pages/ads/stats.php:101
+msgid "Daily clicks ads"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/index.php:6
+#: themes/dashboard/views/pages/crud/create.php:2
+#: themes/dashboard/views/pages/ads/list.php:5
+msgid "New"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/index.php:18
+msgid "Actions"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/index.php:31
+#: themes/dashboard/views/pages/translations/index.php:23
+#: classes/controller/moderation.php:123
+#: classes/controller/moderation.php:124
+msgid "Edit"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/index.php:36
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/index.php:37
+msgid "Delete"
+msgstr ""
+
+#: themes/dashboard/views/pages/crud/update.php:2
+msgid "Update"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:4
+msgid "Total Earnings"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:7
+#: themes/dashboard/views/pages/publisher/codes.php:1
+#: themes/dashboard/views/pages/publisher/stats.php:7
+msgid "You get paid $"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:7
+#: themes/dashboard/views/pages/publisher/codes.php:1
+#: themes/dashboard/views/pages/publisher/stats.php:8
+msgid "Your publisher id is"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:10
+msgid "Please set your paypal account here"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:15
+msgid "Earnings since last payment"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:21
+#: themes/dashboard/views/pages/publisher/payments.php:50
+msgid "Request Payment"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:31
+msgid "Date Paid"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/payments.php:32
+msgid "Amount"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/codes.php:16
+msgid "Size"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/codes.php:20
+msgid "Orientation"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/codes.php:24
+msgid "JavaScript Code"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/codes.php:32
+msgid "Example"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:6
+#: classes/controller/publisher.php:170
+#: classes/controller/publisher.php:171
+msgid "Publisher Stats"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:7
+msgid "Aproximate numbers before review."
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:16
+#: themes/dashboard/views/pages/ads/stats.php:8
+#: themes/dashboard/views/pages/ads/stats.php:86
+msgid "Impressions"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:46
+#: themes/dashboard/views/pages/ads/stats.php:56
+msgid "Filter by date"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:70
+msgid "Daily impressions"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:91
+msgid "Domains names"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:97
+#: themes/dashboard/views/pages/publisher/stats.php:109
+#: themes/dashboard/views/pages/publisher/stats.php:121
+#: themes/dashboard/views/pages/publisher/stats.php:134
+#: themes/dashboard/views/pages/publisher/stats.php:146
+#: themes/dashboard/views/pages/publisher/stats.php:158
+msgid "Domain"
+msgstr ""
+
+#: themes/dashboard/views/pages/publisher/stats.php:143
+msgid "Last Month"
+msgstr ""
+
+#: themes/dashboard/views/pages/log.php:25
+msgid "Log Apache"
+msgstr ""
+
+#: themes/dashboard/views/pages/log.php:29
+msgid "Log KO"
+msgstr ""
+
+#: themes/dashboard/views/pages/error/404.php:7
+msgid "Oops!"
+msgstr ""
+
+#: themes/dashboard/views/pages/error/404.php:9
+msgid "Page Not Found"
+msgstr ""
+
+#: themes/dashboard/views/pages/error/404.php:19
+msgid "Back to Dashboard"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:7
+#: classes/controller/auth.php:141
+msgid "Remember password"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:11
+msgid "Use your registered email, we will send you an email"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:22
+msgid "Remember"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:36
+#: themes/dashboard/views/pages/auth/login.php:46
+msgid "Sign Up"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:37
+msgid "go back"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/forgot.php:37
+#: themes/dashboard/views/pages/auth/register.php:57
+#: themes/dashboard/views/pages/auth/login.php:7
+#: themes/dashboard/views/pages/auth/login.php:32
+msgid "Sign In"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:7
+msgid "Create Your Account"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:11
+msgid "Create your free account"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:29
+#: themes/dashboard/views/pages/auth/register.php:30
+msgid "Confirm Password"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:40
+msgid "I have read and agree with the Terms of Use"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:43
+msgid "Register"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:57
+msgid "Already have an account?"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/register.php:58
+#: themes/dashboard/views/pages/auth/login.php:47
+msgid "Remind"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/login.php:11
+msgid "Sign in using your registered account"
+msgstr ""
+
+#: themes/dashboard/views/pages/auth/login.php:29
+msgid "Keep me signed in"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:2
+#: themes/dashboard/views/pages/translations/index.php:4
+#: classes/controller/translations.php:11
+#: classes/controller/translations.php:20
+msgid "Translations"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:3
+msgid "Here you can modify any text you find in your web."
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:11
+msgid "Original Translation"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:13
+msgid "Copy all?, Be aware this will replace all your texts."
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:17
+msgid "Translate all?, Be aware this will replace all your texts."
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:22
+msgid "Translation"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/edit.php:25
+#: themes/dashboard/views/pages/translations/edit.php:58
+msgid "Save"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/index.php:5
+msgid "Translations files available in the system."
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/index.php:8
+msgid "Scan"
+msgstr ""
+
+#: themes/dashboard/views/pages/translations/index.php:14
+msgid "Language"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:8
+#: themes/dashboard/views/pages/ads/new.php:8
+#: themes/dashboard/views/pages/ads/banner.php:8
+msgid "Some errors were encountered, please check the details you entered."
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:19
+#: themes/dashboard/views/pages/ads/new.php:19
+#: themes/dashboard/views/pages/ads/banner.php:19
+msgid "Advertisement details"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:21
+#: themes/dashboard/views/pages/moderation/list.php:20
+#: themes/dashboard/views/pages/ads/new.php:21
+#: themes/dashboard/views/pages/ads/banner.php:21
+#: themes/dashboard/views/pages/ads/list.php:12
+msgid "Title"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:28
+#: themes/dashboard/views/pages/moderation/edit.php:35
+#: themes/dashboard/views/pages/ads/new.php:28
+#: themes/dashboard/views/pages/ads/new.php:35
+msgid "Description Line"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:42
+#: themes/dashboard/views/pages/ads/new.php:42
+#: themes/dashboard/views/pages/ads/banner.php:35
+msgid "Url"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:49
+#: themes/dashboard/views/pages/ads/new.php:49
+#: themes/dashboard/views/pages/ads/banner.php:42
+msgid "Url to Display"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:56
+#: themes/dashboard/views/pages/moderation/list.php:21
+#: themes/dashboard/views/pages/ads/list.php:13
+msgid "Displays"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:63
+msgid "Created"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:70
+#: themes/dashboard/views/pages/moderation/list.php:25
+#: themes/dashboard/views/pages/ads/list.php:15
+msgid "Status"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:85
+#: themes/dashboard/views/pages/ads/new.php:57
+#: themes/dashboard/views/pages/ads/banner.php:50
+msgid "Advertisement target"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:88
+msgid "IP address INFO"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:100
+#: themes/dashboard/views/pages/ads/new.php:59
+#: themes/dashboard/views/pages/ads/banner.php:52
+msgid "Advertisement Language"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:126
+msgid "Order info"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:137
+#: themes/dashboard/views/pages/moderation/list.php:42
+msgid "Sure?"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:143
+msgid "Back"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/edit.php:145
+#: themes/dashboard/views/pages/ads/new.php:118
+#: themes/dashboard/views/pages/ads/banner.php:111
+msgid "Publish"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/list.php:5
+msgid "Moderate"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/list.php:13
+msgid "All"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/list.php:22
+#: themes/dashboard/views/pages/ads/list.php:14
+msgid "Displays Left"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/list.php:23
+msgid "Total Displays"
+msgstr ""
+
+#: themes/dashboard/views/pages/moderation/list.php:26
+msgid "Action"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:5
+#: themes/dashboard/views/pages/ads/list.php:42
+#: classes/controller/ads.php:246
+msgid "Renew"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:6
+msgid "From this form you can add new credit to your advertisement."
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:7
+msgid "Impressions left"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:9
+#: themes/dashboard/views/pages/ads/new.php:104
+#: themes/dashboard/views/pages/ads/banner.php:97
+msgid "Campaign"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:11
+#: themes/dashboard/views/pages/ads/new.php:106
+#: themes/dashboard/views/pages/ads/banner.php:99
+msgid "Choose campaign"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/credit.php:25
+#: themes/dashboard/views/pages/ads/list.php:34
+msgid "Pay"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/new.php:72
+#: themes/dashboard/views/pages/ads/banner.php:65
+msgid "Select Countries to browse cities"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/new.php:84
+#: themes/dashboard/views/pages/ads/banner.php:77
+msgid "Search for cities"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/new.php:92
+#: themes/dashboard/views/pages/ads/banner.php:85
+msgid "Selected cities"
+msgstr ""
+
+#: themes/dashboard/views/pages/ads/banner.php:28
+msgid "Image"
+msgstr ""
+
+#: classes/controller/profile.php:49
+msgid "Password is changed"
+msgstr ""
+
+#: classes/controller/profile.php:53
+msgid "Nothing is provided"
+msgstr ""
+
+#: classes/controller/profile.php:58
+#: classes/controller/auth.php:217
+msgid "Passwords do not match"
+msgstr ""
+
+#: classes/controller/profile.php:88
+msgid "You have successfuly changed your data"
+msgstr ""
+
+#: classes/controller/translations.php:19
+msgid "List"
+msgstr ""
+
+#: classes/controller/translations.php:60
+#: classes/controller/translations.php:61
+msgid "Edit Translation"
+msgstr ""
+
+#: classes/controller/translations.php:113
+msgid "Language saved"
+msgstr ""
+
+#: classes/controller/redis.php:16
+#: classes/controller/redis.php:17
+msgid "Redis info"
+msgstr ""
+
+#: classes/controller/moderation.php:9
+msgid "Moderation"
+msgstr ""
+
+#: classes/controller/moderation.php:113
+msgid "Advertisement Published"
+msgstr ""
+
+#: classes/controller/moderation.php:153
+msgid "Advertisement Deleted"
+msgstr ""
+
+#: classes/controller/moderation.php:155
+msgid "Advertisement could not be deleted"
+msgstr ""
+
+#: classes/controller/ads.php:16
+#: classes/controller/ads.php:17
+msgid "Listing"
+msgstr ""
+
+#: classes/controller/ads.php:215
+#: classes/controller/ads.php:389
+msgid "Advertisement in moderation, we will publish it ASAP!"
+msgstr ""
+
+#: classes/controller/ads.php:247
+msgid "Renew Advertisement"
+msgstr ""
+
+#: classes/controller/ads.php:306
+#: classes/controller/ads.php:307
+msgid "New Banner"
+msgstr ""
+
+#: classes/controller/tools.php:22
+msgid "Success, cache deleted"
+msgstr ""
+
+#: classes/controller/stats.php:129
+#: classes/controller/stats.php:130
+msgid "Stats "
+msgstr ""
+
+#: classes/controller/payment/paypal.php:158
+msgid "Order could not be loaded"
+msgstr ""
+
+#: classes/controller/auth.php:65
+msgid "Wrong email or password"
+msgstr ""
+
+#: classes/controller/auth.php:71
+msgid "Login"
+msgstr ""
+
+#: classes/controller/auth.php:123
+msgid "Email to recover password sent"
+msgstr ""
+
+#: classes/controller/auth.php:130
+msgid "User not in database"
+msgstr ""
+
+#: classes/controller/auth.php:136
+#: classes/controller/auth.php:222
+msgid "Email required"
+msgstr ""
+
+#: classes/controller/auth.php:177
+msgid "User already exists"
+msgstr ""
+
+#: classes/controller/auth.php:207
+msgid "Welcome!"
+msgstr ""
+
+#: classes/controller/auth.php:228
+msgid "Register new user"
+msgstr ""
+
+#: classes/controller/publisher.php:24
+msgid "Publisher Codes"
+msgstr ""
+
+#: classes/controller/publisher.php:111
+msgid "Nice! Please wait, we are reviewing your request"
+msgstr ""
